@@ -3,7 +3,7 @@
 This is a simple Go web application that prints a "Hello World" message.
 
 ### Step 0. [Optional] Run the application locally
-You should have [Go installed](https://go.dev/doc/install) in your local machine if you want to run the applicatiion locally. This application listens on port `6111`. To run the application, use the following command:
+You should have [Go installed](https://go.dev/doc/install) in your local machine if you want to run the application locally. This application listens on port `6111`. To run the application, use the following command:
 ```
 go run main.go 
 ```
